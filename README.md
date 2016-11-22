@@ -1,5 +1,5 @@
 
-###HOW TO USE THIS BOILERPLAT###
+###HOW TO USE THIS BOILERPLATE###
 
 Download or clone, then run the following commands in terminal:
 
